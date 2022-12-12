@@ -32,3 +32,4 @@ require (
 )
 
 // replace github.com/wailsapp/wails/v2 v2.2.0 => D:\sdks\go\pkg\mod
+replace github.com/wailsapp/wails/v2 v2.2.0 => D:\sdks\go\src\github.com\glitchedgitz\wails\v2
